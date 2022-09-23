@@ -18,7 +18,7 @@ class Student extends Teacher
         
     }
 }
-class Main
+class SingleLevelInheritance
 {
 public static void main(String args[])
 {
