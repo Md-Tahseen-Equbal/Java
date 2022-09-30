@@ -1,3 +1,5 @@
+//Ques2. Create a program to find largest of two numbers.
+
 package Lab;
 import java.util.Scanner;
 
