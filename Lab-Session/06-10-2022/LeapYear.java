@@ -17,7 +17,7 @@ public class LeapYear {
       year = sc.nextInt();
       
       
-      //For Leap Year We Verify 3 Condition Divisble By (4,400) But Not Divisible By (100)
+      //For Leap Year We Verify 3 Condition Divisible By (4,400) But Not Divisible By (100)
       
       // If is used to verify Given Condition is True then print Leap Year
 
